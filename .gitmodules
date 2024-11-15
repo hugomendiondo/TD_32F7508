@@ -1,3 +1,6 @@
 [submodule "Drivers"]
 	path = Drivers
 	url = https://github.com/hugomendiondo/Drivers
+[submodule "Middlewares"]
+	path = Middlewares
+	url = https://github.com/hugomendiondo/Middlewares
